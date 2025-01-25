@@ -1,4 +1,5 @@
-# Information-security-policy![IMG_20250124_001756](https://github.com/user-attachments/assets/3d8608d3-812f-4721-9db0-4215d1ad2ede)
+#![406175057-3d8608d3-812f-4721-9db0-4215d1ad2ede](https://github.com/user-attachments/assets/369f2d77-f5a8-482f-a9cf-1279bd9ddc3e)
+
 INFORMATION SECURITY POLICY
 Document Control
 Policy Owner: Chief Information Security Officer
