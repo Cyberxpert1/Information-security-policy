@@ -1,4 +1,4 @@
-#![406175057-3d8608d3-812f-4721-9db0-4215d1ad2ede](https://github.com/user-attachments/assets/369f2d77-f5a8-482f-a9cf-1279bd9ddc3e)
+![406175057-3d8608d3-812f-4721-9db0-4215d1ad2ede](https://github.com/user-attachments/assets/369f2d77-f5a8-482f-a9cf-1279bd9ddc3e)
 
 INFORMATION SECURITY POLICY
 Document Control
